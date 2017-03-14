@@ -2,6 +2,7 @@ body {
   background-image: url("../images/ep_naturalwhite.png");
   text-align: center;
   padding-bottom: 110px;
+  padding-top: 90px;
 }
 
 a {
@@ -162,6 +163,10 @@ aside h4 {
     margin-left: 0px;
   }
 
+  .navbar > .container .navbar-right {
+    margin-right: 0px;
+  }
+
   aside {
     margin-left: 45px;
     width: 80%;
@@ -175,7 +180,7 @@ aside h4 {
   }
 
   .navbar > .container .navbar-right {
-    margin-right: 30px;
+    margin-right: 45px;
   }
 
   aside {
@@ -191,7 +196,7 @@ aside h4 {
   }
 
   .navbar > .container .navbar-right {
-    margin-right: 82px;
+    margin-right: 100px;
   }
 
   aside {
